@@ -1,4 +1,4 @@
-package com.cydeo.unit.service.impl;
+package com.cydeo.unit.service;
 
 import com.cydeo.dto.CreateGameDTO;
 import com.cydeo.entity.Game;
