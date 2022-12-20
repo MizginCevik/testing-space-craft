@@ -1,4 +1,4 @@
-package com.cydeo.service.impl;
+package com.cydeo.unit.service.impl;
 
 import com.cydeo.dto.CreateHitDTO;
 import com.cydeo.entity.Game;
@@ -6,6 +6,7 @@ import com.cydeo.entity.Player;
 import com.cydeo.entity.Target;
 import com.cydeo.enumtype.AttackType;
 import com.cydeo.repository.GameRepository;
+import com.cydeo.service.impl.CreateHitServiceImpl;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

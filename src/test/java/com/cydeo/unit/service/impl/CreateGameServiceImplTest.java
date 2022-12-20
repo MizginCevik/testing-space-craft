@@ -1,4 +1,4 @@
-package com.cydeo.service.impl;
+package com.cydeo.unit.service.impl;
 
 import com.cydeo.dto.CreateGameDTO;
 import com.cydeo.entity.Game;
@@ -9,6 +9,7 @@ import com.cydeo.enumtype.Level;
 import com.cydeo.repository.GameRepository;
 import com.cydeo.service.CreatePlayerService;
 import com.cydeo.service.CreateTargetService;
+import com.cydeo.service.impl.CreateGameServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
